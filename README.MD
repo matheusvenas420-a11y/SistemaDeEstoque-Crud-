@@ -79,7 +79,9 @@ Esses dados funcionam na minha configuração local. Se o banco estiver usando o
 6. Confira se os dados do arquivo `config/conexao.php` estão corretos.
 7. Abra o navegador e acesse:
 
-http://localhost:81/SistemaEstoque/
+Apache na porta 81: http://localhost:81/SistemaEstoque/
+
+Apache na porta 80: http://localhost/SistemaEstoque/
 
 ## Como testar
 
